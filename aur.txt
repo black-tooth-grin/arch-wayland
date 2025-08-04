@@ -1,0 +1,14 @@
+anydesk-bin
+clipse
+discord_arch_electron
+ds4drv
+joplin-beta-appimage
+lohit-fonts
+rofi-power-menu
+rustdesk-bin
+selectdefaultapplication-git
+spotify
+ttf-ms-fonts
+universal-android-debloater-bin
+waybar-module-pacman-updates-git
+xdman-beta-bin
